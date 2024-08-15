@@ -48,8 +48,8 @@ $ python3 app.py
 
 ```
 
-#⭐ Special Thanks ⭐
-P'ICE 🙇‍♂️ : https://github.com/Annerez
-P'Arther 🙇‍♂️ : https://github.com/E27-25
-P'Ohm 🙇‍♂️ : https://github.com/Ohmmy3847
-P'PIM 🙇‍♂️ : https://github.com/pimsleepyy
+# ⭐ Special Thanks ⭐
+- P'ICE 🙇‍♂️ : https://github.com/Annerez
+- P'Arther 🙇‍♂️ : https://github.com/E27-25
+- P'Ohm 🙇‍♂️ : https://github.com/Ohmmy3847
+- P'PIM 🙇‍♂️ : https://github.com/pimsleepyy
